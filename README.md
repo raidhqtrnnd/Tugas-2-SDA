@@ -1,1 +1,1 @@
-##Tugas 2 : Linked List
+Tugas 2 : Linked List
